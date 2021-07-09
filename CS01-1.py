@@ -1,1 +1,1 @@
-print("halo wode")
+print("jiratpanya")
